@@ -15,7 +15,7 @@ These instructions will help you run the project on your local machine.
 1. Clone the repository:
 
 ```bash
-
+git cloen https://github.com/Abdulkader-Safi/Safi-ExpressTS-Boilerplate-Backend ExpressTS-Boilerplate
 ```
 
 ```bash
